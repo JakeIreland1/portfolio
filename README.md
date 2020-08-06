@@ -1,2 +1,1 @@
-# portfolio
-A simple portfolio of Jake's work in data science and analytics
+# Welcome to Jake's Git portfolio repository.
